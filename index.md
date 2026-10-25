@@ -16,7 +16,7 @@ Chats with your own key are saved on your device until you delete them.
 
 Anthropic handles what it receives under its own privacy policy: https://www.anthropic.com/legal/privacy
 
-Copy-paste mode sends nothing; you choose what to paste where.
+Copy-paste mode sends nothing from the app itself: you choose what to paste where. “Copy & open in Claude” (or ChatGPT) opens that site with the prompt in the link when it fits, so that site receives it — the same as pasting it there yourself.
 
 ## Your files
 
