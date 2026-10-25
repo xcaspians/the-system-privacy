@@ -1,4 +1,4 @@
-# The System — Privacy
+# The System: SideQuests — Privacy
 
 *Last updated: October 25, 2026*
 
