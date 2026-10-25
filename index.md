@@ -8,7 +8,11 @@ The System has no accounts, no analytics, no ads and no servers. Everything you 
 
 If you add an API key for Anthropic’s API, it’s stored in the iOS Keychain and sent only to Anthropic’s API, only when you use an AI feature.
 
-Those requests carry your goal answers, the plan, and whatever you chose to include in a chat — never photos, and your Journal only if you switch it on.
+Those requests carry your goal answers, the plan, and whatever you chose to include in a chat, with your Journal only if you switch it on.
+
+Photos are sent only when you attach one to a chat message.
+
+Chats with your own key are saved on your device until you delete them.
 
 Anthropic handles what it receives under its own privacy policy: https://www.anthropic.com/legal/privacy
 
@@ -16,7 +20,7 @@ Copy-paste mode sends nothing; you choose what to paste where.
 
 ## Your files
 
-Photos are resized, have their location data removed, and never leave the device.
+Photos are resized and have their location data removed. They stay on the device unless you attach one to a chat message.
 
 Exports and shared Goals are files you choose where to send.
 
